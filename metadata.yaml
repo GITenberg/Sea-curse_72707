@@ -1,0 +1,32 @@
+_repo: Sea-curse_72707
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howard, Robert E. (Robert Ervin)
+    alias: Howard, Robert Ervin
+    birthdate: 1906
+    deathdate: 1936
+    gutenberg_agent_id: '36031'
+    url: http://www.gutenberg.org/2009/agents/36031
+    wikipedia: https://en.wikipedia.org/wiki/Robert_E._Howard
+description: ''
+gutenberg_issued: '2024-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72707'
+language: en
+pgterms:marc905: 20240112093036howard
+pgterms:marc906: '1928'
+production_note: Al Haines
+publication_note: '  $aNew York :$bWeird Tales, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Faring Town
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Horror tales'
+- !lcc 'PS'
+- GITenberg
+title: Sea curse
+url: http://www.gutenberg.org/ebooks/72707
