@@ -1,5 +1,8 @@
 _repo: Sea-curse_72707
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72707-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Howard, Robert E. (Robert Ervin)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36031
     wikipedia: https://en.wikipedia.org/wiki/Robert_E._Howard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72707#Sea-curse
 gutenberg_issued: '2024-01-13'
 gutenberg_type: Text
 identifiers:
